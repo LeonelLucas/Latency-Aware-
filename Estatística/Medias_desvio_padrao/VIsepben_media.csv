@@ -1,0 +1,10 @@
+Coluna,Média
+MLP,824.124
+RegLog,817.068
+Gboost,933.99
+NaiveBayes,853.978
+AdaBoost,4800.5
+RegLinear,805.7
+ArvoreD,799.66
+SDG,823.858
+RandomForest,7159.08

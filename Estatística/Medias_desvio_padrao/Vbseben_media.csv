@@ -1,0 +1,10 @@
+Coluna,Média
+MLP,1440.0
+Logistic Regression,867.4
+Gboost,1118.0
+Naive Bayes,1010.0
+AdaBoost,6696.0
+Linear Regression,844.6
+Decision Tree,842.8
+SGD,858.8
+Random Forest,9544.0
